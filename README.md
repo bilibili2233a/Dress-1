@@ -1,3 +1,4 @@
-For private reasons, this repository has been archived and it will be deleted soon.
+作者原句：
+由于私人原因，这个代码仓库已被存档并将很快被删除。
 
-Thanks for everyone who contributed to this project.
+感谢所有为这个项目做出贡献的人。
